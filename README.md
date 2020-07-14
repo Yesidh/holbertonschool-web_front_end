@@ -11,8 +11,8 @@
 ## Prerequisites
 Holberton foundations 9 months
 ## Built With
--HTML5
--W3C-Validator
+ -HTML5
+ -W3C-Validator
 ## Contributing
 -- Yesid Gutierrez - Holberton Student                                          
 ## Versioning
