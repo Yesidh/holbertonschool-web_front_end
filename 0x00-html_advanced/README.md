@@ -41,47 +41,47 @@ for my learning in Holberton School
 
 |             File               |             Description                  |
 |--------------------------------| ---------------------------------------- |
-|**0-index.html**| |
-|**1-index.html**| |
-|**2-index.html**| |
-|**3-index.html**| |
-|**article.html**| |
-|**5-index.html**| |
-|**6-index.html**| |
-|**7-index.html**| |
-|**8-index.html**| |
-|**9-index.html**| |
-|**10-index.html**| |
-|**11-index.html**| |
-|**12-index.html**| |
-|**13-styleguide.html**| |
-|**14-index.html**| |
-|**15-index.html**| |
-|**16-index.html**| |
-|**17-index.html**| |
-|**18-index.html**| |
-|**about.html**| |
-|**latest_news.html**| |
-|**contact.html**| |
-|**20-index.html**| |
-|**21-index.html**| |
-|**22-index.html**| |
-|**23-index.html**| |
-|**24-index.html**| |
-|**25-index.html**| |
-|**26-styleguide.html**| |
-|**27-index.html**| |
-|**28-styleguide.html**| |
-|**29-index.html**| |
-|**30-styleguide.html**| |
-|**31-index.html**| |
-|**32-styleguide.html**| |
-|**33-styleguide.html**| |
-|**34-styleguide.html**| |
-|**35-index.html**| |
-|**36-index.html**| |
-|**index.html**| |
-|**38-styleguide.html**| |
-|**39-styleguide.html**| |
-|**styleguide.html**| |
+|**0-index.html**| Create your first webpage |
+|**1-index.html**| Structure your webpage |
+|**2-index.html**| The head-meta charset, viewport, title, description, favicons |
+|**3-index.html**| Simple header, main, footer  |
+|**article.html**| Aside |
+|**5-index.html**| Section |
+|**6-index.html**| Work, News, Testimonial articles |
+|**7-index.html**| Navigation |
+|**8-index.html**| Level 1 headings |
+|**9-index.html**| Level 2 headings |
+|**10-index.html**| Level 3 headings |
+|**11-index.html**| styleguide |
+|**12-index.html**| Paragraps |
+|**13-styleguide.html**| styleguides paragraphs |
+|**14-index.html**| Span |
+|**15-index.html**| Div |
+|**16-index.html**| Structure your sections |
+|**17-index.html**| Comments |
+|**18-index.html**| link your logo |
+|**about.html**| create page about |
+|**latest_news.html**| create page latest_new |
+|**contact.html**| create page contact |
+|**20-index.html**| add links |
+|**21-index.html**| Add social media links |
+|**22-index.html**| Button links |
+|**23-index.html**| Services, Works Latest news links |
+|**24-index.html**| list the links |
+|**25-index.html**| Secondary navigation menu |
+|**26-styleguide.html**| Examples of lists for the styleguide |
+|**27-index.html**| Separate content |
+|**28-styleguide.html**| Horizontal rule example |
+|**29-index.html**| Client quotes |
+|**30-styleguide.html**| Examples of quotes |
+|**31-index.html**| Address and latest news authors |
+|**32-styleguide.html**| Typography section |
+|**33-styleguide.html**| Table |
+|**34-styleguide.html**| Details |
+|**35-index.html**| Image logo |
+|**36-index.html**| Add images to your sections |
+|**index.html**| Social icons |
+|**38-styleguide.html**| video player in the styleguide |
+|**39-styleguide.html**| Audio player in the styleguide |
+|**styleguide.html**| Iframe in the styleguide |
 
