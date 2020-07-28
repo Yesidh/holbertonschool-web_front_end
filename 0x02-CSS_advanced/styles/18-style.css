@@ -128,9 +128,8 @@ a:active {
 }
 
 .nav {
-    margin: 0 0 0 0;
-    padding: 0 0 0 0;
-    font-style: none;
+    margin: 0;
+    padding: 0;
     text-align: center;
 }
 
