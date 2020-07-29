@@ -68,7 +68,8 @@ body {
     font-weight: var(--font-weight-regular);
     line-height: var(--line-height-base);
 }
-header {
+
+.header {
     padding: var(--header-padding);
 }
 .header-logo {
@@ -80,6 +81,7 @@ header {
     top: var(--header-logo-link-top);
     left: var(--header-logo-link-left);
 }
+
 h1, h2, h3, h4, h5, h6 {
     font-family: var(--font-family-title);
     font-weight: var(--font-weight-bold);
