@@ -585,7 +585,7 @@
       min-height: 40vh;
     }
 
-    .hero-article .hero-body {
+    .hero-article .section-body {
       position: relative;
       padding: 7rem 0 0;
       z-index: 2;
