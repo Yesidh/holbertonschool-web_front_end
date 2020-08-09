@@ -654,6 +654,7 @@ ul.row {
   width: 80%;
   margin: 10rem, 0 0 auto;
   padding-left: 7rem;
+  background-color: red;
 }
 
 .post-comments .section-title {
@@ -662,7 +663,7 @@ ul.row {
 
 /* Basic form
   ============================= */
-.form {
+form {
   display: flex;
   flex-direction: column;
   padding: 1rem 0;
