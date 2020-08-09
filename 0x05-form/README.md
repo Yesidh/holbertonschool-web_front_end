@@ -16,7 +16,7 @@
 - How to build a simple search form
 - How to create usable and accessible forms
 ## Read:
-- [An Extensive Guide To Web Form Usability — Smashing Magazine](https://www.smashingmagazine.com/2011/11/extensive-guide-web-form-usability/){:target="_blank"}
+- [An Extensive Guide To Web Form Usability — Smashing Magazine](https://www.smashingmagazine.com/2011/11/extensive-guide-web-form-usability/)
 - [Forms - UX Movement](https://uxmovement.com/category/forms/)
 - [Placeholders in Form Fields are Harmful](https://www.nngroup.com/videos/placeholders-form-fields/)
 - [The Anatomy of Accessible Forms: Best Practices | Deque](https://www.deque.com/blog/anatomy-of-accessible-forms-best-practices/)
