@@ -712,6 +712,7 @@ ul.row {
 
 /* Form group
 ============================= */
+
 .form-group {
   padding: 1rem;
   margin: 0;
@@ -725,7 +726,8 @@ ul.row {
 
 /* Form field
 ============================= */
-.form-field.container {
+
+.form-field-container {
   position: relative;
 }
 
