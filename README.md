@@ -31,3 +31,4 @@ for my learning in Holberton School
 |**0x03-sass_scss**| Making css with scripts|
 |**0x04-flexbox**| using flexbox to layout an HTML file |
 |**0x05-form**|  form in HTML |
+|**0x06-Responsive design**| Mobile-first design to make responsive web apps  |
