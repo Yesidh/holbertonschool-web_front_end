@@ -50,4 +50,4 @@ for my learning in Holberton School
 |**08-index.html, 08-styles.css**| Improve the "Works" section |
 |**09-index.html, 09-styles.css**| Improve the "Footer" section |
 |**10-index.html, 10-styles.css**| Fix the top header background |
-|****||
+|**article.html, 100-styles.css**| Make the article page responsive|
