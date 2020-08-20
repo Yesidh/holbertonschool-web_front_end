@@ -13,7 +13,7 @@
 - Sizes to use for responsive web design
 - How to make a website responsive
 - The differences between responsive and adaptive design
--CSS units that are used to make elements flexible
+- CSS units that are used to make elements flexible
 ## Read:
 - [The building blocks of responsive design - Progressive web apps | MDN](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Responsive/responsive_design_building_blocks)
 - [A pragmatic guide to designing and building responsive web applications | developerlife.com](https://developerlife.com/2019/08/25/guide-to-building-responsive-web-apps/)
