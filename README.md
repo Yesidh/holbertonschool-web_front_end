@@ -14,6 +14,7 @@ Holberton foundations 9 months
 - HTML5
 - W3C-Validator
 - CSS
+- JavaScript
 ## Contributing
 -- Yesid Gutierrez - Holberton Student                                          
 ## Versioning
@@ -35,3 +36,4 @@ for my learning in Holberton School
 |**0x07-accessibility**| My web page with WCAG: Accessibility  |
 |**0x0A-Bootstrap**| Bootstrap framework |
 |**0x0C-Javascript_advanced**| advanced JS |
+|**0x0E-Cookies_local_storage**| coodies and local storage  |
