@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+    <head>
+
+        <meta charset="utf-8" />
+        <title>Task 0</title>
+
+    </head>
+
+    <body>
+
+        <script type="application/javascript" src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha256-4+XzXVhsDmqanXGHaHvgh1gMQKX40OUvDEBTu8JcmNs=" crossorigin="anonymous"></script>
+        <script>
+            function createFamilyTree() {
+                if ($()){
+                    $('body').append('<table>' +
+                                        '<thead>' +
+                                            '<tr>' +
+                                                '<th>Firstname</th>' +
+                                                '<th>Lastname</th>' +
+                                            '</tr>' +
+                                        '</thead>' + 
+                                        '<tbody></tbody' +
+                                      '</table>'
+                                    )
+                }
+            }
+            function addNewMember (firstName, lastName) {
+                if ($().jquery) {
+                    $('tbody').append(
+                        $('<tr>').append(
+                            $('<td>').text(firstName),
+                            $('<td>').text(lastName),
+                            $('<td>', {
+                                text: '(x)',
+                                style: 'background-color: orange; cursor: pointer',
+                                click: function () {
+                                    this.closest('tr').remove()
+                                }
+                            })
+                        )
+                    )
+                    
+                }
+            }
+            createFamilyTree()
+            addNewMember('Guillaume', 'Salva')
+            addNewMember('Arielle', 'Snizt')
+            addNewMember('Fanette', 'Snizt')
+            addNewMember('Gerard', 'Snizt')
+            addNewMember('Victor', 'Salva')
+        </script>
+    </body>
+
+</html>
