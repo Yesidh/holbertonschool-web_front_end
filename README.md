@@ -37,3 +37,4 @@ for my learning in Holberton School
 |**0x0A-Bootstrap**| Bootstrap framework |
 |**0x0C-Javascript_advanced**| advanced JS |
 |**0x0E-Cookies_local_storage**| coodies and local storage  |
+|**0x0D-JQuery_advanced**| JQuery |
